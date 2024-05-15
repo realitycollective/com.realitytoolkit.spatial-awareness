@@ -2,7 +2,7 @@
   "name": "com.realitytoolkit.spatial-awareness",
   "displayName": "RealityToolkit.SpatialAwareness",
   "description": "The spatial awareness module of the Reality Toolkit by the Reality Collective",
-  "version": "1.0.0-pre.2",
+  "version": "1.0.0-pre.3",
   "documentationUrl": "https://realitytoolkit.io",
   "changelogUrl": "https://github.com/realitycollective/com.realitytoolkit.spatial-awareness/releases",
   "licensesUrl": "https://github.com/realitycollective/com.realitytoolkit.spatial-awareness/blob/main/LICENSE.md",
