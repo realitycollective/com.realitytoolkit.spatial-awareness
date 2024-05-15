@@ -1,23 +1,26 @@
 {
-  "name": "com.realitytoolkit.UPMTEMPLATE",
-  "displayName": "RealityToolkit.UPMTEMPLATE",
-  "description": "The UPMTEMPLATE framework of the Reality Toolkit by the Reality Collective",
+  "name": "com.realitytoolkit.spatial-awareness",
+  "displayName": "RealityToolkit.SpatialAwareness",
+  "description": "The spatial awareness module of the Reality Toolkit by the Reality Collective",
+  "version": "1.0.0-pre.1",
+  "documentationUrl": "https://realitytoolkit.io",
+  "changelogUrl": "https://github.com/realitycollective/com.realitytoolkit.spatial-awareness/releases",
+  "licensesUrl": "https://github.com/realitycollective/com.realitytoolkit.spatial-awareness/blob/main/LICENSE.md",
   "keywords": [
     "VR",
     "AR",
     "XR",
     "Mixed Reality"
   ],
-  "version": "1.0.0-pre.1",
-  "unity": "2021.3",
-  "homepage": "https://github.com/realitycollective",
+  "unity": "2022.3",
+  "homepage": "https://realitytoolkit.io",
   "bugs": {
-    "url": "https://github.com/realitycollective/com.realitytoolkit.UPMTEMPLATE/issues"
+    "url": "https://github.com/realitycollective/com.realitytoolkit.spatial-awareness/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/realitycollective/com.realitytoolkit.UPMTEMPLATE"
+    "url": "git+https://github.com/realitycollective/com.realitytoolkit.spatial-awareness"
   },
   "author": {
     "name": "Reality Collective",
@@ -25,7 +28,7 @@
     "url": "https://github.com/realitycollective"
   },
   "dependencies": {
-    "com.realitytoolkit.core": "1.0.0-pre.37"
+    "com.realitytoolkit.core": "1.0.0-pre.50"
   },
   "assets": [
     {
