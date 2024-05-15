@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 80a1ad34855542cbbd15a6a6dde2e935, type: 3}
-  m_Name: MixedRealitySpatialAwarenessSystemProfile
+  m_Name: SpatialAwarenessSystemProfile
   m_EditorClassIdentifier: 
   configurations: []
   meshDisplayOption: 0
-  globalMeshObserverProfile: {fileID: 11400000, guid: 6cbcb6266beaa724780d064525cf2896,
-    type: 2}
+  globalMeshObserverProfile: {fileID: 11400000, guid: 6cbcb6266beaa724780d064525cf2896, type: 2}
   globalSurfaceObserverProfile: {fileID: 0}
