@@ -3,7 +3,7 @@
   "displayName": "RealityToolkit.SpatialAwareness",
   "description": "The spatial awareness module of the Reality Toolkit by the Reality Collective",
   "version": "1.0.0-pre.3",
-  "documentationUrl": "https://realitytoolkit.io",
+  "documentationUrl": "https://realitytoolkit.realitycollective.net/",
   "changelogUrl": "https://github.com/realitycollective/com.realitytoolkit.spatial-awareness/releases",
   "licensesUrl": "https://github.com/realitycollective/com.realitytoolkit.spatial-awareness/blob/main/LICENSE.md",
   "keywords": [
@@ -13,7 +13,7 @@
     "Mixed Reality"
   ],
   "unity": "2022.3",
-  "homepage": "https://realitytoolkit.io",
+  "homepage": "https://realitytoolkit.realitycollective.net/",
   "bugs": {
     "url": "https://github.com/realitycollective/com.realitytoolkit.spatial-awareness/issues"
   },
@@ -28,7 +28,7 @@
     "url": "https://github.com/realitycollective"
   },
   "dependencies": {
-    "com.realitytoolkit.core": "1.0.0-pre.50"
+    "com.realitytoolkit.core": "1.0.0-pre.72"
   },
   "assets": [
     {
